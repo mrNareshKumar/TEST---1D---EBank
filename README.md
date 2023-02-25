@@ -1,3 +1,8 @@
+# LIVE DEMO :-  <a href="https://ebanknk.ccbp.tech">EBank</a>
+### Login Details
+User ID: 142420 </br>
+PIN: 231225
+
 The goal of this coding exam is to quickly get you off the ground with **Authentication**.
 
 ### Refer to the image below:
